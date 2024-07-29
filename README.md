@@ -1,0 +1,1 @@
+# swisstronik-minting-erc721
